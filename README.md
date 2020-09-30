@@ -1,0 +1,2 @@
+# Ascend-Card-Game
+Ascend is a story choose-your-own-adventure RPG deck building card game. You will reveal stories, progress your character, and uncover loot as you progress through the game.  The cards and text will be printable for a physical version of the game. The website will be able to add an account, make new cards, and add to the story. The user will also be able to print all the resources they will need to play the game all at once. 

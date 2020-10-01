@@ -1,3 +1,7 @@
+body{
+    color: black;
+}
+
 hr{
     margin: 0px;
 }
@@ -57,4 +61,9 @@ hr{
 
 #seperator{
     margin-top: 5px;
+}
+
+#shieldIcon{
+    height: 58px;
+    width: 58px;
 }

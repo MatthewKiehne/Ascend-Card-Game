@@ -1,0 +1,60 @@
+hr{
+    margin: 0px;
+}
+
+.stats{
+    line-height: 58px;
+    height: 58px;
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.stats span{
+    line-height: 1rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.belowHr{
+    margin-top: 5px;
+}
+
+.container{
+    padding: .25in;
+    position: relative;
+}
+
+.row{
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+.ideaHeading{
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.boxHeading{
+    font-size: 1.25rem;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.chapterHeading{
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+#seperator{
+    margin-top: 5px;
+}

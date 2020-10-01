@@ -1,0 +1,110 @@
+img{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    margin: 0px;
+}
+
+.centered{
+    text-align: center;
+}
+
+.fullWidth{
+    width: 100%;
+}
+
+.card {
+    position: relative;
+    margin: .05in;
+    width: 2.5in;
+    height: 3.5in;
+}
+
+.floatLeft{
+    float : left;
+}
+
+.backCard{
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+.title{
+    font-weight: bold;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+
+.types{
+    position: absolute;
+    top: 42px;
+    left: 8px;
+    font-size: .9rem;
+    font-style: italic;
+}
+
+.recurring{
+    position: absolute;
+    top: 36px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    z-index: 2;
+}
+
+.typeDivision{
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.cardText{
+    position: absolute;
+    top: 78px;
+    left: 8px; 
+    width: calc(100% - 16px);
+}
+
+.cardNumber{
+    position: absolute;
+    top: 307px;
+    left: 6px; 
+    width: 48px;
+    text-align: center;
+}
+
+.cardCenter{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate3d(-50%, -50%, 0 );
+}
+
+.discoverySpacer{
+    margin-bottom: 5px;
+}
+
+.iconText{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.lootCircle{
+    position: absolute;
+    top: 291px;
+    color: black;
+    right: 0px;
+}
+
+.lootPrice{
+    position: absolute;
+    top: 305px;
+    color: black;
+    left: 204px;
+    width: 30px;
+    text-align: center;
+}

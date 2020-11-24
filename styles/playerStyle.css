@@ -20,7 +20,7 @@ hr{
 }
 
 .belowHr{
-    margin-top: 5px;
+    margin-top: 0px;
 }
 
 .container{
@@ -39,7 +39,7 @@ hr{
 .ideaHeading{
     margin-bottom: 0px;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.75em;
 }
 
 .boxHeading{
@@ -57,6 +57,28 @@ hr{
 .chapterHeading{
     margin-bottom: 3px;
     margin-top: 3px;
+}
+
+.numberBox{
+    position: relative;
+}
+
+.numberInBox{
+    position: absolute;
+    bottom: 7px;
+    left: 19px;
+    font-size: 2rem;
+}
+
+.zeroMarginBottom{
+    margin-bottom: 0px;
+}
+
+.rightColumnPadding{
+    padding-left: 1.5rem;
+}
+.leftColumnPadding{
+    padding-right: 1.5rem;
 }
 
 #seperator{
